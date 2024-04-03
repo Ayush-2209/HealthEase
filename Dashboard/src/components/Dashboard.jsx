@@ -64,9 +64,9 @@ const Dashboard = () => {
                 </h5>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facilis, nam molestias. Eaque molestiae ipsam commodi neque.
-                Assumenda repellendus necessitatibus itaque.
+              HealthEase is a revolutionary hospital management system dedicated to simplifying healthcare administration and enhancing patient care. 
+              Founded on the belief that technology can streamline healthcare processes and improve overall efficiency, 
+              HealthEase strives to provide innovative solutions tailored to the needs of both patients and healthcare professionals.
               </p>
             </div>
           </div>

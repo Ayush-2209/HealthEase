@@ -58,8 +58,8 @@ const Register = () => {
         <h2>Sign Up</h2>
         <p>Please Sign Up To Continue</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa
-          voluptas expedita itaque ex, totam ad quod error?
+        HealthEase is a revolutionary hospital management system dedicated to simplifying healthcare administration and enhancing patient care. 
+        Founded on the belief that technology can streamline healthcare processes and improve overall efficiency
         </p>
         <form onSubmit={handleRegistration}>
           <div>

@@ -11,26 +11,18 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          HealthEase is a revolutionary hospital management system dedicated to simplifying healthcare administration and 
+          enhancing patient care. Founded on the belief that technology can streamline healthcare processes and 
+          improve overall efficiency, HealthEase strives to provide innovative solutions tailored to the needs of both patients and healthcare professionals.
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
+          <p>Our Mission:</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+          At HealthEase, our mission is to empower healthcare providers with advanced tools and technologies, 
+          enabling them to deliver high-quality care while optimizing operational workflows. 
+          We are committed to creating user-friendly platforms that enhance communication, streamline appointment scheduling, 
+          and facilitate seamless management of medical records.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>Health is the biggest asset!</p>
         </div>
       </div>
     </>

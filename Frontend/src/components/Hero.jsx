@@ -7,12 +7,27 @@ const Hero = ({ title, imageUrl }) => {
         <div className="banner">
           <h1>{title}</h1>
           <p>
-            ZeeCare Medical Institute is a state-of-the-art facility dedicated
-            to providing comprehensive healthcare services with compassion and
-            expertise. Our team of skilled professionals is committed to
-            delivering personalized care tailored to each patient's needs. At
-            ZeeCare, we prioritize your well-being, ensuring a harmonious
-            journey towards optimal health and wellness.
+          Welcome to HealthEase, your comprehensive solution for managing healthcare services efficiently. 
+          Whether you're a patient seeking personalized care or an administrator overseeing medical operations, 
+          HealthEase offers intuitive tools tailored to your needs.
+          <br/>
+          <br/>
+
+          What HealthEase Offers:
+          <br/>
+          <br/>
+          Patient-Friendly Interface: Easily book appointments, communicate securely with healthcare providers, 
+          and access essential medical information—all in one place.
+        
+
+          <br/>
+          <br/>
+          Why Choose HealthEase:
+          <br/>
+          <br/>
+          User-Centric Design: Our platform prioritizes user experience, with intuitive interfaces designed for 
+          seamless navigation and accessibility.
+          
           </p>
         </div>
         <div className="banner">
